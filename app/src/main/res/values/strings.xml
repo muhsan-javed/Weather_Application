@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Weather Application</string>
+    <string name="splash_text_des">Weather Matters, \n we\'ve Got the Details</string>
 </resources>
