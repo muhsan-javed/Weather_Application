@@ -24,6 +24,7 @@
         android:layout_marginTop="76dp"
         android:textColor="@color/white"
         android:textSize="30sp"
+        android:fontFamily="@font/merriweathersans_bold"
         android:textAlignment="center"
         android:text="Weather Matters, \n we've Got the Details"
         app:layout_constraintEnd_toEndOf="@+id/imageView"
