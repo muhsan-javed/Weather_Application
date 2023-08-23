@@ -1,12 +1,12 @@
-package com.muhsanjaved.weatherapplication.ui
+package com.muhsanjaved.weatherapplication
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
-import com.muhsanjaved.weatherapplication.R
 import com.muhsanjaved.weatherapplication.databinding.ActivitySplashScreenBinding
+import com.muhsanjaved.weatherapplication.ui.MainActivity
 
 class SplashScreenActivity : AppCompatActivity() {
 

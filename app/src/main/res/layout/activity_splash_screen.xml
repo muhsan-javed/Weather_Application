@@ -36,7 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/merriweathersans_medium"
-        android:text="DESIGN by \n MuhsanTech"
+        android:text="@string/design_by_n_muhsan_tech"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="15sp"
