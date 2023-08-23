@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SplashScreen"
-    android:background="@drawable/spalsh_screen">
+    android:background="@drawable/spalsh_screen"
+    tools:context=".ui.SplashScreenActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -30,6 +30,5 @@
         app:layout_constraintEnd_toEndOf="@+id/imageView"
         app:layout_constraintStart_toStartOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
